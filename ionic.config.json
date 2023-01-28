@@ -1,0 +1,7 @@
+{
+  "name": "Recetitas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
